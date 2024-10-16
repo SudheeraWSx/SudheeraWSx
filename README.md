@@ -6,7 +6,7 @@
   </a>
 </div>
 
-## Skills and Tools: 
+## Skills and Tools
 <div>
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> </a> 
