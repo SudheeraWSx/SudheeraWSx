@@ -1,4 +1,4 @@
-## Hey there, it's me, Sudheera! 👋
+# Hey there, it's me, Sudheera! 👋
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/sudheeraws/">
